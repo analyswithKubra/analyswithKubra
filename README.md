@@ -5,7 +5,7 @@
 
 **About Me**
 
-👀 I’m passionate about data analysis and enjoy turning data into meaningful insights. I’m currently enhancing my skills in SQL. Fun fact about me: I enjoy exploring data sets in my free time as much as exploring new places! I’m open to collaborating on data analysis projects and contributing to impactful work.
+👀 I’m passionate about data analysis and enjoy turning data into meaningful insights. I’m currently enhancing my skills in SQL,Tableau and Pyhton. Fun fact about me: I enjoy exploring data sets in my free time as much as exploring new places! I’m open to collaborating on data analysis projects and contributing to impactful work.
 
 **Get in Touch**
 
